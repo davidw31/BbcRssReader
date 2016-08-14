@@ -95,6 +95,8 @@ namespace BbcRssReader
         {
             try
             {
+                Directory.CreateDirectory("feed");
+
                 string json = JsonConvert.SerializeObject(newsItems, Newtonsoft.Json.Formatting.Indented);
 
                 using (FileStream fileStream = File.Open(String.Format("{0}{1}{2}",
@@ -111,7 +113,7 @@ namespace BbcRssReader
                     serializer.Serialize(jsonWriter, newsItems);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 Console.WriteLine("An error has occurred while attempting to create the json file.");
             }
