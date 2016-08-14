@@ -1,0 +1,8 @@
+D:\dev stuff\BbcRssReader\BbcRssReader\bin\Debug\BbcRssReader.exe.config
+D:\dev stuff\BbcRssReader\BbcRssReader\bin\Debug\BbcRssReader.exe
+D:\dev stuff\BbcRssReader\BbcRssReader\bin\Debug\BbcRssReader.pdb
+D:\dev stuff\BbcRssReader\BbcRssReader\bin\Debug\Newtonsoft.Json.dll
+D:\dev stuff\BbcRssReader\BbcRssReader\bin\Debug\Newtonsoft.Json.xml
+D:\dev stuff\BbcRssReader\BbcRssReader\obj\Debug\BbcRssReader.csprojResolveAssemblyReference.cache
+D:\dev stuff\BbcRssReader\BbcRssReader\obj\Debug\BbcRssReader.exe
+D:\dev stuff\BbcRssReader\BbcRssReader\obj\Debug\BbcRssReader.pdb
